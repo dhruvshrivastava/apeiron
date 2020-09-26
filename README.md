@@ -1,2 +1,2 @@
 # Apeiron (Anantamaina) Website
-GitHub Pages
+A demo landing page for a finance publication website 
